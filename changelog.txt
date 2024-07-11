@@ -1,0 +1,89 @@
+commit 677f95ea76ef1faa02f4653ef1967580dbc08cba (HEAD -> master)
+Author: Shaly17 <shalikammw@gmail.com>
+Date:   Thu Jul 11 14:12:26 2024 +0200
+
+    txt file added
+
+commit cbc5cf8d93bbe5130928cea2257bdeddda66252c
+Author: Shaly17 <shalikammw@gmail.com>
+Date:   Thu Jul 11 14:03:11 2024 +0200
+
+     XML file has been updated
+
+commit 724229eb9881bf7c093a297fcebb3df16e76dc42 (origin/master, origin/HEAD)
+Author: Shaly17 <shalikammw@gmail.com>
+Date:   Wed Jul 10 20:13:27 2024 +0200
+
+    form.html deleted
+
+commit caf4c320697c0133bdb1afcabcff6d8e424dd0bb
+Author: Shaly17 <shalikammw@gmail.com>
+Date:   Wed Jul 10 20:07:32 2024 +0200
+
+    It has been added html and css files
+
+commit 7370ab4add8585529ae6ff0039629058a3d5a441
+Author: Shaly17 <shalikammw@gmail.com>
+Date:   Wed Jul 10 19:09:51 2024 +0200
+
+    Added xml file
+
+commit e67a22eb615ae13e40f20c71d43649762f37b80b
+Author: linyimei <1284558387@qq.com>
+Date:   Wed Jul 10 09:09:04 2024 +0200
+
+    form.html
+
+commit e14412dadd1d4d7ffa9b644330389ebf5ce240cc
+Author: linyimei <1284558387@qq.com>
+Date:   Fri Jul 5 16:47:48 2024 +0200
+
+    LaTeX.tex
+
+commit 6a552c1cac76c9cc86ade306e22921a7cc097162
+Author: linyimei <1284558387@qq.com>
+Date:   Thu Jul 4 17:17:20 2024 +0200
+
+    index.html
+
+commit 0bd93695db4e34e9d6db9ab37688c190d914acd6
+Author: linyimei <1284558387@qq.com>
+Date:   Thu Jul 4 16:56:57 2024 +0200
+
+    add index
+
+commit df05bcaacd50bc0c850fe4b0178d9a6841707c27
+Author: linyimei <1284558387@qq.com>
+Date:   Thu Jul 4 16:55:45 2024 +0200
+
+    add README
+(END)
+commit e67a22eb615ae13e40f20c71d43649762f37b80b
+Author: linyimei <1284558387@qq.com>
+Date:   Wed Jul 10 09:09:04 2024 +0200
+
+    form.html
+
+commit e14412dadd1d4d7ffa9b644330389ebf5ce240cc
+Author: linyimei <1284558387@qq.com>
+Date:   Fri Jul 5 16:47:48 2024 +0200
+
+    LaTeX.tex
+
+commit 6a552c1cac76c9cc86ade306e22921a7cc097162
+Author: linyimei <1284558387@qq.com>
+Date:   Thu Jul 4 17:17:20 2024 +0200
+
+    index.html
+
+commit 0bd93695db4e34e9d6db9ab37688c190d914acd6
+Author: linyimei <1284558387@qq.com>
+Date:   Thu Jul 4 16:56:57 2024 +0200
+
+    add index
+
+commit df05bcaacd50bc0c850fe4b0178d9a6841707c27
+Author: linyimei <1284558387@qq.com>
+Date:   Thu Jul 4 16:55:45 2024 +0200
+
+    add README
